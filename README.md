@@ -1,18 +1,13 @@
 - 👋 Hi, I’m @MargaridaDiamantino
 # Bem-vindo ao Meu Perfil! 👋
 
-Olá, eu sou [Seu Nome]! Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender algo novo.
+Olá, eu sou a Margarida Diamantino! Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender algo novo.
 
 ## Sobre Mim
 
 - 🚀 Desenvolvedor de Software
 - 🌱 Atualmente aprendendo [tecnologia interessante]
 - 💡 Curioso sobre [temas de interesse]
-
-## Projetos Destacados
-
-- [Projeto Legal 1](link_para_o_projeto1)
-- [Projeto Incrível 2](link_para_o_projeto2)
 
 ## Habilidades
 
