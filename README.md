@@ -22,14 +22,5 @@ Olá, eu sou a Margarida Diamantino! Sou apaixonado por desenvolvimento de softw
 </div>
 
 
-   
-
-
-## Conecte-se Comigo
-
-[![LinkedIn](link_para_seu_perfil_no_LinkedIn)](link_para_seu_perfil_no_LinkedIn)
-[![Twitter](link_para_seu_perfil_no_Twitter)](link_para_seu_perfil_no_Twitter)
-
-![GitHub followers](https://img.shields.io/github/followers/seu_usuario?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/seu_usuario?style=social)
+  
 
