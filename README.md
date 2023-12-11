@@ -1,24 +1,14 @@
 - 👋 Hi, I’m @MargaridaDiamantino
 # Bem-vindo ao Meu Perfil! 👋
 
-Olá, eu sou a Margarida Diamantino! Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender algo novo.
+Olá, eu sou a Margarida Diamantino! Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender algo novo
 
-## Sobre Mim
-
-- 🚀 Desenvolvedor de Software
-- 🌱 Atualmente aprendendo [tecnologia interessante]
-- 💡 Curioso sobre [temas de interesse]
-
-## Habilidades
-
-- Linguagens de Programação:
+## Tecnologias:
   - ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+   ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-- Frameworks:
-  - ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-- Outras Habilidades: [Outras Habilidades]
 
 ## Conecte-se Comigo
 
